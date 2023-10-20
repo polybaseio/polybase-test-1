@@ -24,6 +24,8 @@ Your task is developing an AI-based 🤖 recipe-generating platform that allows 
 
 ### Bonus Points 🎯
 
+Ps. these are really bonus points. Skipping all of them is completely fine.
+
 - Use Tailwind for styling your app.
 - Go for functional React & JavaScript.
 - Use of Docker 🐳
@@ -40,5 +42,6 @@ Your task is developing an AI-based 🤖 recipe-generating platform that allows 
 - Focus on functionality and usability over aesthetics, nonetheless, do showcase your potential with CSS/Tailwind.
 - Please create a new GitHub repository for hosting your project, and add `gokaykucuk` as a user.
 - Regardless of your progress, ensure the project is in a working state when submitted.
+- Please try to log your hours during the exercise. 
   
 Best of luck, and happy coding! 🚀🎈🎊
