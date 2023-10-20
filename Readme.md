@@ -18,7 +18,7 @@ Your task is developing an AI-based 🤖 recipe-generating platform that allows 
 
 - Enable users to generate, view, edit, and delete their own tasty recipes 🍜.
 - The recipes should contain a title, description, ingredients, and the cooking instructions.
-- Users should be able to input a list of ingredients with their quantities on a user-friendly screen and click a button to cook up the recipe 🍳.
+- Users should be able to input a list of ingredients with their quantities on a user-friendly screen and click a button to generate the recipe 🍳.
 - Use AI to auto-generate all parts of the recipe except the ingredients, which should be user's input.
 - Feel free to use any cloud-hosted Language Model (like the clever ChatGPT from OpenAI).
 - Frontend should be responsive and easy to use.
@@ -28,7 +28,8 @@ Your task is developing an AI-based 🤖 recipe-generating platform that allows 
 - Use Tailwind for styling your app.
 - Go for functional React & JavaScript.
 - Add a "favorites" feature for users 🌟.
-- Incorporation of a Dockerfile 🐳.
+- Use of Docker 🐳
+- Making the app run with docker-compose up.
 - Infrastructure as Code (IaC).
 - Creation of interesting and engaging prompts.
 
