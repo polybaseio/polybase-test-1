@@ -1,44 +1,38 @@
-# Welcome
+# Introduction
 
-Here's a code challenge that can be implemented with either a SPA + Backend(React + FastAPI etc) OR a fully SSR without an SPA component(Django with templates etc).
+We are excited to present you with this coding challenge that requires you to implement either an SPA with a backend (React with FastAPI, etc.), or full server side rendering (SSR) without a SPA component (Django with templates, etc.). The aim of this exercise is to evaluate your Python or/and JavaScript programming style and your capacity to design, structure, and manage an all-inclusive project.
 
-The main target of the challenge is to measure,
-- Programming style in Python or Javascript or both.
-- Your ability to structure and manage a project end to end.
+Don’t hesitate to contact us if you have any questions or feedback about this challenge.
 
-```
-Feel free to ask questions and give feedback about this challenge at any point.
-```
+## The Task: Construct an AI-Driven Recipe Generator Application
 
-## Challenge: Build a Recipe Generator Platform
+### Brief
 
-### Overview
+The objective is to create an AI-powered platform that generates, displays, and allows users to share recipes. The architecture of the platform should be client-server, with a simple database for storing the generated recipe data.
 
-You are tasked with building an AI based recipe generating platform where users can generate, view, and, share recipes with others. The platform should have a client and server architecture, with a simple database to store generated recipe data.
+### Specifications
 
-### Requirements
+- Enable users to generate, view, edit, and delete their own recipes.
+- Recipes comprise a title, description, ingredients, and instructions.
+- The recipe generation process should include a screen where users input a list of ingredients with their quantities and press a button to assemble the recipe.
+- The AI can auto-create all parts of the recipes except for the ingredients, which must be voluntary user input.
+- Feel free to use any cloud hosted language model, such as OpenAI's ChatGPT.
+- The frontend should be user-friendly and responsive.
 
-- Users should be able to generate, view, edit, and delete their own recipes.
-- Recipes should have a title, description, ingredients, and instructions.
-- Generation of a recpie consists of a screen where users enter a list of ingredients with their amounts and a button to generate a recipe.
-- All fields of Recipes can be generated except ingredients. Ingredients are user input.
-- Feel free to use any hosted LLM(like ChatGPT from OpenAI etc).
-- The frontend should be responsive and easy to use.
+### Extra Credits
 
-### Bonus Points
+- Implementing Tailwind for styling.
+- Using functional React & JavaScript.
+- Allowing users to save recipes to their favorites.
+- Including a Dockerfile.
+- Infrastructure as Code (IaC).
+- Incorporation of interesting prompts.
 
-- Tailwind.
-- Functional React & Javascript
-- Users are able to save recipes to their favorites.
-- Dockerfile.
-- IaC.
-- Cool prompts.
+### Directions
 
-### Guidelines
-
-- Feel free to pick entire stack. Make sure in bare minimum you use a database and a server.
-- If prompting is not your strong suite, just ask for help!
-- You can use supabase, firebase and similar solutions for a low-code backend.
-- Design is not that important, but show that you can use css/tailwindcss.
-- Use github for code hosting, create a new repository and add `gokaykucuk` user to it.
-- Try to leave the project in a working state even if you haven't done all the requirements.
+- Feel free to choose the entire tech stack. However, ensure at the least, you integrate a database and a backend server.
+- If you need support with prompts, don't hesitate to seek help!
+- You are welcome to use supabase, firebase, or any similar low-code backend solutions.
+- Graphical design is secondary, but do demonstrate your ability with CSS/Tailwind.
+- We would like you to use GitHub for hosting the code. Please create a new repository and add 'gokaykucuk' as a user.
+- Whether or not you complete all the requirements, leave the project in a functioning state.
