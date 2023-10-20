@@ -40,3 +40,5 @@ You are tasked with building an AI based recipe generating platform where users 
 - If prompting is not your strong suite, just ask for help!
 - You can use supabase, firebase and similar solutions for a low-code backend.
 - Design is not that important, but show that you can use css/tailwindcss.
+- Use github for code hosting, create a new repository and add `gokaykucuk` user to it.
+- Try to leave the project in a working state even if you haven't done all the requirements.
