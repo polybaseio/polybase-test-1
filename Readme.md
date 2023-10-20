@@ -26,7 +26,6 @@ Your task is developing an AI-based 🤖 recipe-generating platform that allows 
 
 - Use Tailwind for styling your app.
 - Go for functional React & JavaScript.
-- Add a "favorites" feature for users 🌟.
 - Use of Docker 🐳
 - Making the app run with docker-compose up.
 - Infrastructure as Code (IaC).
