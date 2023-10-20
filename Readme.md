@@ -14,7 +14,7 @@ Feel free to ask questions and give feedback about this challenge at any point.
 
 ### Overview
 
-You are tasked with building an AI based recipe generating platform where users can create, view, and generate and share recipes with others. The platform should have a client and server architecture, with a simple database to store generated recipe data. The frontend should be built using Tailwind CSS.
+You are tasked with building an AI based recipe generating platform where users can generate, view, and, share recipes with others. The platform should have a client and server architecture, with a simple database to store generated recipe data.
 
 ### Requirements
 
